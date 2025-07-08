@@ -5,6 +5,10 @@
 [submodule "cvdprevent"]
 	path = cvdprevent
 	url = https://github.com/craig-parylo/cvdprevent
+[submodule "medicaldata"]
+	path = medicaldata
+	url = https://github.com/higgi13425/medicaldata
+	registered = false
 [submodule "plotor"]
 	path = plotor
 	url = https://github.com/craig-parylo/plotor
